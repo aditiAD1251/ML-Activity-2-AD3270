@@ -1,8 +1,8 @@
 # Activity 2 – Simple House Price Prediction
 ## Activity details
-Course Name - Machine Learning
-Activity - CIE 2 – Activity 2
-Activity Title - Simple House Price Prediction
+- **Course Name:** Machine Learning
+- **Activity:** CIE 2 – Activity 2
+- **Activity Title:** Simple House Price Prediction
 
 ## Project Description
 This project uses Simple Linear Regression to predict house sale prices using the Ames Housing Dataset.
