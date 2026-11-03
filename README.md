@@ -42,3 +42,10 @@ This project uses Simple Linear Regression to predict house sale prices using th
 
 ## Conclusion
 A Simple Linear Regression model was developed using Gr Liv Area to predict SalePrice. The model was evaluated using regression metrics and actual-versus-predicted visualisation.
+
+## Faculty Profile and Acknowledgement
+
+Faculty Profile: [Princy2129](https://github.com/Princy2129)
+
+This project was completed as part of the Machine Learning CIE 2 activity. Faculty reference and Machine Learning learning resources:
+https://github.com/Princy2129
