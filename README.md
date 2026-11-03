@@ -40,6 +40,28 @@ This project uses Simple Linear Regression to predict house sale prices using th
 11. Visualising actual vs predicted prices.
 12. Predicting the price of a new house.
 
+## Model Evaluation Results
+
+The Linear Regression model was evaluated using the following metrics:
+
+| Evaluation Metric | Result |
+|---|---:|
+| Mean Absolute Error (MAE) | 41,365.51 |
+| Mean Squared Error (MSE) | 3,821,184,066.27 |
+| Root Mean Squared Error (RMSE) | 61,815.73 |
+| R-squared (R²) | 0.5234 |
+
+### Interpretation of Results
+
+1. **MAE:** The model's predictions differ from actual house prices by an average of approximately 41,365.51 price units.
+2. **MSE:** It measures the average squared difference between actual and predicted house prices. Larger errors receive more weight.
+3. **RMSE:** The typical prediction error is approximately 61,815.73 price units, expressed in the same unit as house prices.
+4. **R² Score:** The model explains approximately 52.34% of the variation in house prices using the selected input feature, Gr Liv Area.
+
+### Result Summary
+
+The Linear Regression model shows a moderate ability to predict house prices using above-ground living area. However, other factors such as location, number of rooms and overall house quality may also influence house prices and are not included in this single-feature model.
+
 ## Conclusion
 A Simple Linear Regression model was developed using Gr Liv Area to predict SalePrice. The model was evaluated using regression metrics and actual-versus-predicted visualisation.
 
